@@ -1,0 +1,6 @@
+{
+  "name": "LokVaani",
+  "description": "LokVaani is India's largest AI-powered regional language platform for devotional audio, folk stories, regional proverbs, dialects, offline downloads, and community sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
